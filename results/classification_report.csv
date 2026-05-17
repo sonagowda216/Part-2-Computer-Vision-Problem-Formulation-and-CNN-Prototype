@@ -1,0 +1,5 @@
+class,precision,recall,f1_score,support
+dent,0.87,0.87,0.87,24
+normal,0.87,0.87,0.87,24
+scratch,0.87,0.87,0.87,24
+stain,0.87,0.87,0.87,24
